@@ -18,7 +18,7 @@ This POC demonstrates how to consume a soap webservice and the best practices ar
       ![ScreenShot](https://raw.githubusercontent.com/indiramallick1988/Demo2/master/Webservice/property.PNG)
       
 ## Testing
-   1. Once the application is deployed locally it can be tested as below
+   1. Once the application is deployed locally, it can be tested as below.
    
    ### Sum
      URL: http://localhost:8081/sum
